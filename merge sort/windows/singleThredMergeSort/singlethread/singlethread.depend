@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510856228 source:c:\users\user\desktop\courses\7 semester\os\merge sort\singlethredmergesort\singlethread\main.c
+	<stdlib.h>
+	<stdio.h>
+

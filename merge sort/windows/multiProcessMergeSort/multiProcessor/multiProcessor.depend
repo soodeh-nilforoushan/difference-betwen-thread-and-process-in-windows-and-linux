@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510837227 source:c:\users\user\desktop\courses\7 semester\os\merge sort\multiprocessmergesort\multiprocessor\main.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+

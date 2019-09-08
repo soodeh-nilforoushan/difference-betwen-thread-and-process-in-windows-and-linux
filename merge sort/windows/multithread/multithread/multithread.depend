@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510858064 source:c:\users\user\desktop\courses\7 semester\os\merge sort\multithread\multithread\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+
+1510679791 source:c:\users\user\desktop\courses\7 semester\os\merge sort\multithread\multithread\untitled1.c
+	<stdio.h>
+	<pthread.h>
+	<stdlib.h>
+

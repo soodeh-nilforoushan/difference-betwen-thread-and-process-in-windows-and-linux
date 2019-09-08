@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510737443 source:c:\users\user\desktop\courses\7 semester\os\merge sort\mergeexe\merge\main.c
+	<stdlib.h>
+	<stdio.h>
+
